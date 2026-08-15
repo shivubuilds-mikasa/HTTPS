@@ -15,7 +15,6 @@
 - API vs HTTP
 
 
-
 ## Key Understanding
 HTTP is the communication protocol used between clients and servers.
 An API defines what a backend allows other applications to do.
