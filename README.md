@@ -88,8 +88,5 @@ Understanding HTTP and APIs is crucial because:
 
 ---
 
-**📅 Last Updated:** November 2024
-
----
 
 *Made with ❤️ and a love for web technologies*
