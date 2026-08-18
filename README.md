@@ -1,5 +1,5 @@
 # 🌐 HTTPS & Web Communication
-> *The Foundation of Modern Web Interactions
+> *The Foundation of Modern Web Interactions*
 
 ---
 
