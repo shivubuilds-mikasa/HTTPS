@@ -1,7 +1,6 @@
 # 🌐 HTTPS & Web Communication
 > *The Foundation of Modern Web Interactions*
-
----
+--
 
 ## 📚 Learning Journey
 
