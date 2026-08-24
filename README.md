@@ -2,7 +2,6 @@
 > *The Foundation of Modern Web Interactions*
 
 ---
-
 ## 📚 Learning Journey
 
 ### 🎯 Core Concepts Explored
