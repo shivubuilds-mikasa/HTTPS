@@ -8,7 +8,6 @@
 | Concept | Description |
 |---------|-------------|
 | **HTTP** | The fundamental protocol enabling web communication |
-
 | **Client-Server Model** | The architectural pattern powering the internet |
 | **Request-Response Cycle** | The dance between browsers and servers |
 | **URL Anatomy** | Understanding web addresses inside out |
