@@ -3,7 +3,6 @@
 ---
 ## 📚 Learning Journey
 
-
 ### 🎯 Core Concepts Explored
 
 | Concept | Description |
