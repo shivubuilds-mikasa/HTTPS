@@ -6,7 +6,6 @@
 ### 🎯 Core Concepts Explored
 
 | Concept | Description |
-
 |---------|-------------|
 | **HTTP** | The fundamental protocol enabling web communication |
 | **Client-Server Model** | The architectural pattern powering the internet |
